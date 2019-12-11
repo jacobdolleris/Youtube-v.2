@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #282828;
+    font-family: sans-serif;
+    background-color: white;
+}
+
+h1{
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.youtube{
+    display: flex;
+    height: 70px;
+    background-color: #FF0000;
+    justify-content: center;
+    position: sticky;
+    top:0;
+    
+}
+
+.youtube img {
+    height: 45px;
+    margin-top: 10px;
+    
+}
+
+
+.video video{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-color:#282828; 
+    
+}
+     
+.tekst{
+    text-align: center;
+    margin-top: 50px;
+}
+.tekst2 {
+    display: inline-block;
+    font-size: 17px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.kasse {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;   
+}
+
+
+.ikoner{
+    text-align: justify;
+}
+
+
+.ikoner img{
+    width: 150px;
+    height: 150px;
+    margin-left: 110px;
+    margin-right: 100px;
+    display: inline-block;
+}
+
+
+
+
+.kasse2{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    
+    
+    
+}
+.kasse2 p{
+   width: 250px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+
+.kasse3{
+    
+    width: 100%;
+    height: 700px;
+    background-color:#282828;
+    padding-top: 20px;
+    
+    
+}
+
+.skov{
+    display: flex;
+    width: 100%;
+    height: 250px;
+    justify-content: flex-start;
+    
+   
+}
+.skov img {
+    
+    height: 300px;
+    margin-left: 50px;
+   
+}
+
+.skov p{
+    color:white;    
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right:150px;
+    font-size: 20px;
+    
+}
+
+.skov2{
+    display: flex;
+    width: 100%;
+    height: 250px;
+    justify-content: flex-end;
+    margin-top: 30px;
+      
+}
+
+.skov2 img {
+    height: 300px;
+    margin-right: 50px;
+    margin-top: 60px;
+    
+  
+}
+.skov2 p{
+    color:white;
+    margin-left: 150px;
+    margin-top: 120px;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+
+.tilmeld{
+    display: block;
+ 
+    margin-top: 30px;
+    text-align: center;
+    
+    
+}
+
+.tilmeld p{
+    font-size: 30px;
+    margin-left: 450px;
+    margin-right:450px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.premium{
+    display: block;
+    width: 100%;
+    
+}
+.premium img{
+    height: 100px;
+    
+}
+.knap img{
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+
+   
+    
+
+
+
+
+
+
+
+
